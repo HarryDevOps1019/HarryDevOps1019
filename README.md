@@ -41,4 +41,4 @@
 
 #My GitHub Contributions
 
-[Snake animation!](https://github.com/HarryDevOps1019/HarryDevOps101/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/HarryDevOps1019/HarryDevOps101/output/github-contribution-grid-snake.svg)
