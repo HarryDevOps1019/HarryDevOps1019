@@ -5,8 +5,29 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" width="400"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="500"/>
 </div>
+
+<!-- Alternative cool animations - choose your favorite! -->
+<!-- 
+  Option 1: Matrix-style coding
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500"/>
+  
+  Option 2: DevOps workflow animation
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="DevOps" width="500"/>
+  
+  Option 3: Terminal hacking style
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Terminal" width="500"/>
+  
+  Option 4: Cyber security theme
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" alt="Cyber" width="500"/>
+  
+  Option 5: Cloud computing animation
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" alt="Cloud" width="500"/>
+  
+  Option 6: Data flow visualization
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Data" width="500"/>
+-->
 
 <div align="center">
   
