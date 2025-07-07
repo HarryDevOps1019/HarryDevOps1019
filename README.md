@@ -34,3 +34,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harrydevops1019&show_icons=true&locale=en" alt="harrydevops1019" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harrydevops1019&" alt="harrydevops1019" /></p>
+
+#Top Contributed Repo
+
+[](https://github-contributor-stats.vercel.app/api?username=HarryDevOps1019&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+#My GitHub Contributions
+
+[Snake animation!](https://github.com/HarryDevOps1019/HarryDevOps101/blob/output/github-contribution-grid-snake.svg)
