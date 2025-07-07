@@ -223,18 +223,17 @@ gantt
 ## 🎯 GitHub Activity & Contributions
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harrydevops1019&theme=tokyo_night" />
+  <img src="https://raw.githubusercontent.com/HarryDevOps1019/HarryDevOps1019/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-
 <!-- If snake animation doesn't work, use this instead -->
-<!--[<div align="center">
+[<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harrydevops1019&theme=tokyo-night&hide_border=true&area=true&point=00ff00" />
 </div>
 
 <div align="center">
   <img sr](url)c="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harrydevops1019&theme=tokyo_night" />
-</div> -->
+</div> 
 
 ---
 
