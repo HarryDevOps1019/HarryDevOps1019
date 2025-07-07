@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,11 +11,18 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      - name: List root folder before snake generation
+        run: ls -la
+
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: HarryDevOps1019
-          outputs: dist    # output folder
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: dist
+
+      - name: List root folder after snake generation
+        run: ls -la
 
       - name: List dist folder contents
         run: ls -l dist
