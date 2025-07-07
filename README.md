@@ -223,7 +223,7 @@ gantt
 ## 🎯 GitHub Activity & Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HarryDevOps1019/HarryDevOps1019/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/HarryDevOps1019/HarryDevOps1019/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 
