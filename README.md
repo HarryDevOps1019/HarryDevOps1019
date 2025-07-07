@@ -37,7 +37,7 @@
 
 #Top Contributed Repo
 
-[](https://github-contributor-stats.vercel.app/api?username=HarryDevOps1019&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=HarryDevOps1019)
 
 #My GitHub Contributions
 
