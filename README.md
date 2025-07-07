@@ -21,26 +21,66 @@
 
 ## 🚀 About Me
 
-```yaml
-name: Harry
-located_in: DevOps Universe
-current_focus: Cloud Infrastructure & Automation
-education: 
-  - "Self-taught DevOps Engineer"
-  - "Continuous learner"
-  - "Problem solver"
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
+      </td>
+      <td align="left" width="50%">
+        <h3>🎯 Who Am I?</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Role-DevOps%20Engineer-blue?style=flat-square&logo=jenkins&logoColor=white" alt="Role"/>
+          <br><br>
+          🌟 <strong>Passionate DevOps Engineer</strong> who loves automating everything!<br>
+          ☁️ <strong>Cloud enthusiast</strong> living in the world of AWS & Azure<br>
+          🔧 <strong>Automation lover</strong> - if it's repetitive, I'll automate it<br>
+          🏋️‍♂️ <strong>Gym rat</strong> who believes in strong body, strong mind, strong code<br>
+          📚 <strong>Continuous learner</strong> always exploring new technologies
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-fields_of_interests:
-  - "Cloud Architecture"
-  - "Container Orchestration"
-  - "CI/CD Pipelines"
-  - "Infrastructure as Code"
-  - "Monitoring & Observability"
+<div align="center">
+  <h3>🔥 My Expertise Areas</h3>
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Cloud-Architecture-FF6B6B?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+        <br><strong>Cloud Architecture</strong>
+        <br><sub>AWS • Azure • Multi-Cloud</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Container-Orchestration-4ECDC4?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+        <br><strong>Container Orchestration</strong>
+        <br><sub>Kubernetes • Docker • Helm</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/CI/CD-Pipelines-45B7D1?style=for-the-badge&logo=jenkins&logoColor=white"/>
+        <br><strong>CI/CD Pipelines</strong>
+        <br><sub>Jenkins • GitLab CI • GitHub Actions</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Infrastructure-as%20Code-96CEB4?style=for-the-badge&logo=terraform&logoColor=white"/>
+        <br><strong>Infrastructure as Code</strong>
+        <br><sub>Terraform • Ansible • CloudFormation</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>🎯 Current Focus & Goals</h3>
   
-currently_learning: ["Advanced Kubernetes", "Cloud Security", "GitOps"]
-2024_goals: ["Contribute to Open Source", "Build DevOps Community", "Master Cloud Platforms"]
-hobbies: ["Gym 💪", "Tech Blogging", "Automation Scripts"]
-```
+  ![Learning](https://img.shields.io/badge/🌱%20Currently%20Learning-Advanced%20Kubernetes%20|%20Cloud%20Security%20|%20GitOps-success?style=for-the-badge)
+  
+  ![Goals](https://img.shields.io/badge/🎯%202024%20Goals-Open%20Source%20Contribution%20|%20DevOps%20Community%20Building-orange?style=for-the-badge)
+  
+  ![Hobbies](https://img.shields.io/badge/⚡%20Hobbies-Gym%20💪%20|%20Tech%20Blogging%20|%20Automation%20Scripts-purple?style=for-the-badge)
+  
+</div>
 
 ---
 
@@ -159,10 +199,19 @@ gantt
 
 ---
 
-## 🐍 Watch my contributions get eaten by a snake 🐍
+## 🎯 GitHub Activity & Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HarryDevOps1019/HarryDevOps101/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/HarryDevOps1019/HarryDevOps1019/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<!-- If snake animation doesn't work, use this instead -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harrydevops1019&theme=tokyo-night&hide_border=true&area=true&point=00ff00" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harrydevops1019&theme=tokyo_night" />
 </div>
 
 ---
